@@ -1,0 +1,6 @@
+hub ucsc_hg38_haploinsufficiency
+shortLabel haploy
+longLabel haploy hg38 data
+genomesFile genomes.txt
+email zxp@ucsc.com
+descriptionUrl description.txt

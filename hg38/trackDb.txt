@@ -1,5 +1,5 @@
 track HI_pred_noimp
-bigDataUrl pgen.1001154.s001.bed
+bigDataUrl https://raw.githubusercontent.com/Simple53/ucsc_hub_hg38/main/hg38/pgen.1001154.s001.bed
 shortLabel HI
 longLabel HI predict no imputation
 type bigBed

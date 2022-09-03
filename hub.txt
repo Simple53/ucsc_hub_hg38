@@ -1,4 +1,4 @@
-hub ucsc_hg38_haploinsufficiency
+hub ENCODE_hg38_haploinsufficiency
 shortLabel haploy
 longLabel haploy hg38 data
 genomesFile genomes.txt

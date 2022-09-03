@@ -1,0 +1,10 @@
+track HI_pred_noimp
+bigDataUrl pgen.1001154.s001.bed
+shortLabel HI
+longLabel HI predict no imputation
+type bigBed
+visibility full
+autoScale on
+maxHeightPixels 128:32:11
+priority 1
+color 255,0,0
